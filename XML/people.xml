@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<people>
+ <person name= "Benjamin" surname="Talic" >
+  <age >24</age>
+<child name= "Bitcamp" surname="Nesto" age="8" />
+</person>
+ <person name= "Emir" surname="Imamovic" >
+  <age >22</age>
+<child name= "Hikmet" surname="Durgutovic" age="11" />
+<child name= "Saban" surname="Saulic" age="18" />
+</person>
+ <person name= "Vedad" surname="Zornic" >
+  <age >23</age>
+<child name= "Junior Vedad" surname="Zornic" age="15" />
+<child name= "Emina" surname="Muratovic" age="12" />
+</person>
+ <person name= "Gordan" surname="Sajevic" >
+  <age >23</age>
+</person>
+ <person name= "Mustafa" surname="Ademovic" >
+  <age >21</age>
+</person>
+</people>
